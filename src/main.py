@@ -78,8 +78,6 @@ class App():
 			# This is where the main loop will go
 			# <start>
 			self.say('start')
-			for i in range (50000000):
-				pass
 			self.say('end')
 			# <end>
 
