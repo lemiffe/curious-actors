@@ -1,0 +1,3 @@
+cwd:"home_dir", cmd:"pip", parms:"install Unidecode"
+cwd:"home_dir", cmd:"pip", parms:"install pattern"
+cwd:"home_dir", cmd:"pip", parms:"install pymongo"

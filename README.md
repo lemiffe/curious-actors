@@ -1,0 +1,3 @@
+# Curious Actors
+
+Documentation pending...
