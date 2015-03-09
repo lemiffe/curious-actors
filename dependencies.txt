@@ -1,3 +1,7 @@
 cwd:"home_dir", cmd:"pip", parms:"install Unidecode"
 cwd:"home_dir", cmd:"pip", parms:"install pattern"
 cwd:"home_dir", cmd:"pip", parms:"install pymongo"
+cwd:"home_dir", cmd:"pip", parms:"install scikit-learn"
+cwd:"home_dir", cmd:"pip", parms:"install neurolab"
+cwd:"home_dir", cmd:"pip", parms:"install http://www.cs.ualberta.ca/%7Esteph/RLtoolkit1.0b6.tgz"
+cwd:"home_dir", cmd:"pip", parms:"install Theano"

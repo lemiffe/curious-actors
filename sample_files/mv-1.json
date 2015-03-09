@@ -1,0 +1,15 @@
+{
+	"name": "Multiverse 1",
+	"description": "Multiverse with one Universe",
+	"author": "@lemiffe",
+	"created": "2015-03-06",
+	"items": [
+		{
+			"object": "universe", 
+			"type": "file", 
+			"format": "json",
+			"file_location": "sample_files/uv-1.json",
+			"parser": "mv-std"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Universe 1",
+	"description": "Universe with two normal books",
+	"author": "@lemiffe",
+	"created": "2015-03-06",
+	"type": "structured",
+	"items": [
+		{
+			"type": "file",
+			"format": "json",
+			"file_location": "sample_files/obj-1-book.json",
+			"parser": "uv-std"
+		},
+		{
+			"type": "file",
+			"format": "json",
+			"file_location": "sample_files/obj-1-book.json",
+			"parser": "uv-std"
+		}
+	]
+}
