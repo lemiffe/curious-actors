@@ -76,7 +76,7 @@ def filter_python_develop(line):
 def main():
     
     # Generate installation script
-    text = virtualenv.create_bootstrap_script(EXTRA_TEXT, python_version='2.7.7')
+    text = virtualenv.create_bootstrap_script(EXTRA_TEXT, python_version='2.7.9')
     
     # Save script if it has been changed
     if os.path.exists(script_name):

@@ -1,0 +1,21 @@
+{
+	"name": "Universe 2",
+	"description": "Universe with two books that think they are cars",
+	"author": "@lemiffe",
+	"created": "2015-03-06",
+	"type": "structured",
+	"items": [
+		{
+			"type": "file",
+			"format": "json",
+			"file_location": "sample_files/obj-2-book-car.json",
+			"parser": "uv-std"
+		},
+		{
+			"type": "file",
+			"format": "json",
+			"file_location": "sample_files/obj-2-book-car.json",
+			"parser": "uv-std"
+		}
+	]
+}

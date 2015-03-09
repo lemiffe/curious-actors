@@ -1,0 +1,30 @@
+{
+	"type": "object",
+	"format": "json",
+	"parser": "obj-std",
+	"definition": {
+		"properties": {
+			"type": "book", 
+			"color": 
+				{
+					"type": "random",
+					"values": ["red", "green", "blue", "black", 
+						"white", "silver", "brown", "gold"]
+				}
+		},
+		"methods": [
+			{
+				"name": "changeType",
+				"parameters": [
+					{"name": "name", "type": "string"}
+				],
+				"returns": "boolean",
+				"py_definition": "
+					if name != '':
+						self.name = name
+						return true
+					return false"
+			}
+		]
+	}
+}

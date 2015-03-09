@@ -1,0 +1,15 @@
+{
+	"type": "object",
+	"format": "json",
+	"parser": "ca-std",
+	"genetics": null,
+	"definition": {
+		"public_properties": {
+			"type": "idiot"
+		},
+		"private_properties": {
+		},
+		"methods": [
+		]
+	}
+}
